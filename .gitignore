@@ -1,0 +1,3 @@
+/VOCdevkit/
+*pycache*
+fasterrcnn_resnet50_fpn_coco.pth
